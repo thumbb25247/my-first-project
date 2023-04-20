@@ -14,6 +14,6 @@ public class TestServlet extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		//response.setCharacterEncoding(getServletInfo(UTF-8);
-		response.getWriter().append("JUUUUSSSST a tEsT!");
+		response.getWriter().append("JUUUUSSSST a tEsT!!");
 	}
 }
